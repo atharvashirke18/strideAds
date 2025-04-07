@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "902436366279",
+    "firebase_url": "https://asep-2-c974a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "asep-2-c974a",
+    "storage_bucket": "asep-2-c974a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902436366279:android:6b6142df33898fb8e05be2",
+        "android_client_info": {
+          "package_name": "com.example.strideads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902436366279-ks1059f1qg2f1b47eeffb1ag97cdgnvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCawHxHsBtNPLxE_nxxG_RbrbzBkRBrXW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902436366279-ks1059f1qg2f1b47eeffb1ag97cdgnvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
